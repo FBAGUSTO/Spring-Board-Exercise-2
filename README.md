@@ -1,4 +1,4 @@
-# Spring-Board-Exercise-2
+# Spring-Board-Exercise 2: Dealing with missing values
 This is Spring Board Data Wrangling Exercise 2. This exercise involves the following  basic data manipulation:
 
 0: Loading the data in RStudio
